@@ -45,6 +45,9 @@ Sanitization complete:  <br/>
 <br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ proba drive embeded
+ <a href="https://lh3.googleusercontent.com/drive-viewer/AITFw-xAJnX8kuJa8YRnDMxvZLElF36VzvyQ68tUoE-lQfh6IFuWgfv_s-DeT0lvmND6OKM4o7sGyqLtOcrgHEvCmv3nXq9BAw=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AITFw-xAJnX8kuJa8YRnDMxvZLElF36VzvyQ68tUoE-lQfh6IFuWgfv_s-DeT0lvmND6OKM4o7sGyqLtOcrgHEvCmv3nXq9BAw=s1600" /> </a>
 </p>
 
 <!--
