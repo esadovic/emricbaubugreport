@@ -1,13 +1,12 @@
 <h1>Testing of website emricbau.de </h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of a bug report from site emricbau.de 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Tools used in project/h2>
 
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
