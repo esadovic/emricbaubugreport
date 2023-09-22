@@ -6,7 +6,7 @@ Project consists of a bug report from site emricbau.de
 <br />
 
 
-<h2>Tools used in project/h2>
+<h2>Tools used in project</h2>
 
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
