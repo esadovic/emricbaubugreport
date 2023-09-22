@@ -1,4 +1,4 @@
-<h2>Project consists of a bug report from site emricbau.de </h2>
+<h2>Project consists of a bug report from site www.emricbau.de </h2>
 
 <h3>BUG 1</h3>
 
