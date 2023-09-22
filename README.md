@@ -1,50 +1,37 @@
 <h1>Testing of website emricbau.de </h1>
 
 
-<h2>Description</h2>
-Project consists of a bug report from site emricbau.de 
-<br />
+<h2>Project consists of a bug report from site emricbau.de </h2>
+<br/>
 
+Summary: Contact Us - Form with all required fields is not sent and user is redirected to the blank page. <br>
+Contact Us - Form with all required fields is not sent and no request is send <br>
+Contact Us - Request is not sent and user is redirected to the blank page after click on Send <br>
 
-<h2>Tools used in project</h2>
+Description:
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+Precodintions:
 
-<h2>Environments Used </h2>
+Steps to reproduce:
+1.	Go to https://academybugs.com/contact-us-form/
+2.	Fill in the first name
+3.	Fill in the last name
+4.	Fill in valid email adress: (example: test@gmail.com)
+5.	Enter some value in subject and message fields
+6.	Click “Send“ button
+   
+Actual result: After click on Send button user is redirected to the blank page and there is no post request in the console. Contact form is not sent: User redirected to the blank page.
 
-- <b>Windows 10</b> (21H2)
+Expected result: Request is sent. User is redirected to the home page and succes message is visible at the top of the page: “Thank you for your contact form. We will contact you as soon as possible.”
 
-<h2>Program walk-through:</h2>
+Environment/Reproducen on:
+
+Attachment:
 
 <p align="center">
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
 </p>
 
 <!--
